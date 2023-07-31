@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(71, 71, 80);
+=======
+    color: rgb(147, 231, 29);
+>>>>>>> cabecera
     text-align: center;
     font-family: "arial";
     font-size: 10px;
@@ -35,6 +39,7 @@ padding: 1em;
 text-align: left;
 border: 1px solid #000;
 margin: 0 auto;
+
 }
 #contenedor h1
 {
